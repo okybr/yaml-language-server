@@ -7,6 +7,7 @@ In particular, this fork supports [the official schema-definition OpenAPI versio
 
 - https://github.com/OAI/OpenAPI-Specification/issues/2969
 - https://github.com/redhat-developer/yaml-language-server/issues/752
+- https://github.com/redhat-developer/yaml-language-server/issues/780
 
 ## Why is this a fork?
 
